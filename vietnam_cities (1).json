@@ -1,0 +1,102 @@
+{
+    "HN": {
+        "name": "Hanoi",
+        "lat": "21.0285",
+        "long": "105.8542"
+    },
+    "HCMC": {
+        "name": "Ho Chi Minh City",
+        "lat": "10.8231",
+        "long": "106.6297"
+    },
+    "DN": {
+        "name": "Da Nang",
+        "lat": "16.0471",
+        "long": "108.2068"
+    },
+    "HP": {
+        "name": "Haiphong",
+        "lat": "20.8449",
+        "long": "106.6881"
+    },
+    "BH": {
+        "name": "Bien Hoa",
+        "lat": "10.9447",
+        "long": "106.8243"
+    },
+    "NT": {
+        "name": "Nha Trang",
+        "lat": "12.2388",
+        "long": "109.1967"
+    },
+    "CT": {
+        "name": "Can Tho",
+        "lat": "10.0452",
+        "long": "105.7469"
+    },
+    "HUE": {
+        "name": "Hue",
+        "lat": "16.4637",
+        "long": "107.5909"
+    },
+    "VT": {
+        "name": "Vung Tau",
+        "lat": "10.4114",
+        "long": "107.1362"
+    },
+    "QN": {
+        "name": "Quy Nhon",
+        "lat": "13.7820",
+        "long": "109.2191"
+    },
+    "TN": {
+        "name": "Thai Nguyen",
+        "lat": "21.5942",
+        "long": "105.8484"
+    },
+    "PT": {
+        "name": "Phan Thiet",
+        "lat": "10.9289",
+        "long": "108.1021"
+    },
+    "BMT": {
+        "name": "Buon Ma Thuot",
+        "lat": "12.6866",
+        "long": "108.0378"
+    },
+    "TH": {
+        "name": "Thanh Hoa",
+        "lat": "19.8067",
+        "long": "105.7766"
+    },
+    "RG": {
+        "name": "Rach Gia",
+        "lat": "10.0150",
+        "long": "105.0809"
+    },
+    "TK": {
+        "name": "Tam Ky",
+        "lat": "15.5736",
+        "long": "108.4740"
+    },
+    "CR": {
+        "name": "Cam Ranh",
+        "lat": "11.9214",
+        "long": "109.1591"
+    },
+    "LC": {
+        "name": "Lao Cai",
+        "lat": "22.4842",
+        "long": "103.9707"
+    },
+    "V": {
+        "name": "Vinh",
+        "lat": "18.6796",
+        "long": "105.6813"
+    },
+    "BL": {
+        "name": "Bac Lieu",
+        "lat": "9.2881",
+        "long": "105.7243"
+    }
+}
