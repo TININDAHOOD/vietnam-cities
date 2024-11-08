@@ -1,0 +1,277 @@
+{
+    "HN": {
+        "name": "Hanoi",
+        "lat": "21.0285",
+        "long": "105.8542"
+    },
+    "HCMC": {
+        "name": "Ho Chi Minh City",
+        "lat": "10.8231",
+        "long": "106.6297"
+    },
+    "DN": {
+        "name": "Da Nang",
+        "lat": "16.0471",
+        "long": "108.2068"
+    },
+    "HP": {
+        "name": "Hai Phong",
+        "lat": "20.8449",
+        "long": "106.6881"
+    },
+    "CT": {
+        "name": "Can Tho",
+        "lat": "10.0452",
+        "long": "105.7469"
+    },
+    "AG": {
+        "name": "An Giang",
+        "lat": "10.5216",
+        "long": "105.1259"
+    },
+    "BRVT": {
+        "name": "Ba Ria - Vung Tau",
+        "lat": "10.4114",
+        "long": "107.1362"
+    },
+    "BG": {
+        "name": "Bac Giang",
+        "lat": "21.2730",
+        "long": "106.1946"
+    },
+    "BK": {
+        "name": "Bac Kan",
+        "lat": "22.1471",
+        "long": "105.8342"
+    },
+    "BL": {
+        "name": "Bac Lieu",
+        "lat": "9.2881",
+        "long": "105.7243"
+    },
+    "BN": {
+        "name": "Bac Ninh",
+        "lat": "21.1860",
+        "long": "106.0763"
+    },
+    "BT": {
+        "name": "Ben Tre",
+        "lat": "10.2304",
+        "long": "106.3757"
+    },
+    "BD": {
+        "name": "Binh Dinh",
+        "lat": "13.7820",
+        "long": "109.2191"
+    },
+    "BPG": {
+        "name": "Binh Phuoc",
+        "lat": "11.7540",
+        "long": "106.7235"
+    },
+    "BTN": {
+        "name": "Binh Thuan",
+        "lat": "10.9289",
+        "long": "108.1021"
+    },
+    "CM": {
+        "name": "Ca Mau",
+        "lat": "9.1764",
+        "long": "105.1524"
+    },
+    "CB": {
+        "name": "Cao Bang",
+        "lat": "22.6657",
+        "long": "106.2570"
+    },
+    "DK": {
+        "name": "Dak Lak",
+        "lat": "12.6866",
+        "long": "108.0378"
+    },
+    "DN2": {
+        "name": "Dak Nong",
+        "lat": "12.2640",
+        "long": "107.6098"
+    },
+    "DB": {
+        "name": "Dien Bien",
+        "lat": "21.3854",
+        "long": "103.0187"
+    },
+    "GL": {
+        "name": "Gia Lai",
+        "lat": "13.9716",
+        "long": "108.0185"
+    },
+    "HG": {
+        "name": "Ha Giang",
+        "lat": "22.7645",
+        "long": "104.9458"
+    },
+    "HN2": {
+        "name": "Ha Nam",
+        "lat": "20.5835",
+        "long": "105.9229"
+    },
+    "HT": {
+        "name": "Ha Tinh",
+        "lat": "18.3554",
+        "long": "105.8877"
+    },
+    "HD": {
+        "name": "Hai Duong",
+        "lat": "20.9386",
+        "long": "106.3151"
+    },
+    "HB": {
+        "name": "Hoa Binh",
+        "lat": "20.8172",
+        "long": "105.3372"
+    },
+    "HY": {
+        "name": "Hung Yen",
+        "lat": "20.8526",
+        "long": "106.0160"
+    },
+    "KH": {
+        "name": "Khanh Hoa",
+        "lat": "12.2388",
+        "long": "109.1967"
+    },
+    "KG": {
+        "name": "Kien Giang",
+        "lat": "10.0150",
+        "long": "105.0809"
+    },
+    "KT": {
+        "name": "Kon Tum",
+        "lat": "14.3498",
+        "long": "107.9840"
+    },
+    "LC": {
+        "name": "Lai Chau",
+        "lat": "22.3868",
+        "long": "103.4707"
+    },
+    "LS": {
+        "name": "Lang Son",
+        "lat": "21.8542",
+        "long": "106.6291"
+    },
+    "LC2": {
+        "name": "Lao Cai",
+        "lat": "22.4842",
+        "long": "103.9707"
+    },
+    "LD": {
+        "name": "Lam Dong",
+        "lat": "11.5769",
+        "long": "108.1429"
+    },
+    "NB": {
+        "name": "Nam Dinh",
+        "lat": "20.2439",
+        "long": "106.1633"
+    },
+    "NT": {
+        "name": "Ninh Thuan",
+        "lat": "11.5675",
+        "long": "108.9886"
+    },
+    "NA": {
+        "name": "Nghe An",
+        "lat": "18.6747",
+        "long": "105.6882"
+    },
+    "QB": {
+        "name": "Quang Binh",
+        "lat": "17.4680",
+        "long": "106.6223"
+    },
+    "QNA": {
+        "name": "Quang Nam",
+        "lat": "15.5736",
+        "long": "108.4740"
+    },
+    "QNI": {
+        "name": "Quang Ngai",
+        "lat": "15.1216",
+        "long": "108.7922"
+    },
+    "QN": {
+        "name": "Quang Ninh",
+        "lat": "20.9572",
+        "long": "107.0826"
+    },
+    "QT": {
+        "name": "Quang Tri",
+        "lat": "16.7564",
+        "long": "107.1910"
+    },
+    "ST": {
+        "name": "Soc Trang",
+        "lat": "9.6025",
+        "long": "105.9739"
+    },
+    "SL": {
+        "name": "Son La",
+        "lat": "21.3254",
+        "long": "103.9188"
+    },
+    "TN": {
+        "name": "Tay Ninh",
+        "lat": "11.3104",
+        "long": "106.0988"
+    },
+    "TB": {
+        "name": "Thai Binh",
+        "lat": "20.4463",
+        "long": "106.3362"
+    },
+    "TN2": {
+        "name": "Thai Nguyen",
+        "lat": "21.5942",
+        "long": "105.8484"
+    },
+    "TH": {
+        "name": "Thanh Hoa",
+        "lat": "19.8067",
+        "long": "105.7766"
+    },
+    "TQ": {
+        "name": "Tuyen Quang",
+        "lat": "21.8236",
+        "long": "105.2153"
+    },
+    "TV": {
+        "name": "Tra Vinh",
+        "lat": "9.8127",
+        "long": "106.2993"
+    },
+    "VL": {
+        "name": "Vinh Long",
+        "lat": "10.2539",
+        "long": "105.9722"
+    },
+    "VP": {
+        "name": "Vinh Phuc",
+        "lat": "21.3089",
+        "long": "105.6049"
+    },
+    "YB": {
+        "name": "Yen Bai",
+        "lat": "21.7163",
+        "long": "104.8986"
+    },
+    "PY": {
+        "name": "Phu Yen",
+        "lat": "13.0882",
+        "long": "109.0929"
+    },
+    "DL": {
+        "name": "Dak Lak",
+        "lat": "12.8334",
+        "long": "108.3602"
+    }
+}
